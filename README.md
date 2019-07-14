@@ -2,7 +2,7 @@
 
 Python script that take a music repository source (src) and a music repository destination (dst).
 
-Read every file in src and copy it from src/... to dst/artist/album/title.extension
+Read every file in src and copy it from src/... to dst/artist/album/name.extension
 
 ## Depedencies 
 taglib 
